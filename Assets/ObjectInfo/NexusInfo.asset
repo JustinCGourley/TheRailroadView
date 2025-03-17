@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3ebcd450a4479469b90f68fc023cc0, type: 3}
+  m_Name: NexusInfo
+  m_EditorClassIdentifier: 
+  obj: {fileID: 7766428817061153738, guid: 76032f702626cba40bf0dea904fa6fee, type: 3}
+  upgradeCost: 0
+  objType: 5
+  buildingType: 0
+  isStartBuilding: 0
+  researchCost: 0
+  buildingName: nexusBuilding
+  woodCost: 0
+  stoneCost: 0
+  manaCost: 0
+  isUpgradable: 0
+  isPipeable: 0

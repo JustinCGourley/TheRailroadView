@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Building
+  - Resource
+  - Water
+  - Resource_Wood
+  - Resource_Stone
+  - Building_Housing
+  - Building_Storage
+  - Wood
+  - Stone
+  - Road_Wood
+  - Food
+  - Resource_Food
+  - Person
+  - UI
+  - Tile_Sand
+  - Tile_Grass
+  - Building_Mine
+  - Road_Stone
+  - Resource_Iron
+  - Iron
+  - Gold
+  - Resource_Gold
+  - Train Station
+  - Railroad
+  - Enemy
+  - Element_Pillar
+  - Building_Farm
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Tile
+  - Building
+  - Resource
+  - RangeCollider
+  - Selectable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

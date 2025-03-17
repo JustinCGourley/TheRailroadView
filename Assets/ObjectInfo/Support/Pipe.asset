@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3ebcd450a4479469b90f68fc023cc0, type: 3}
+  m_Name: Pipe
+  m_EditorClassIdentifier: 
+  obj: {fileID: 864478339252853271, guid: c003109546f3e7d4aa1eed2db4a9ea09, type: 3}
+  upgradeCost: 0
+  objType: 6
+  buildingType: 2
+  isStartBuilding: 1
+  researchCost: 0
+  buildingName: Pipe
+  woodCost: 0
+  stoneCost: 4000000
+  manaCost: 1000000
+  isUpgradable: 0
+  isPipeable: 0

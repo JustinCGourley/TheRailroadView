@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3ebcd450a4479469b90f68fc023cc0, type: 3}
+  m_Name: FirePillarInfo
+  m_EditorClassIdentifier: 
+  obj: {fileID: 1671292145172100383, guid: feaf109f4bb29da40860fbb5d3ec753f, type: 3}
+  upgradeCost: 0
+  objType: 4
+  buildingType: 2
+  isStartBuilding: 0
+  researchCost: 15
+  buildingName: Fire Pillar
+  woodCost: 5000000
+  stoneCost: 5000000
+  manaCost: 0
+  isUpgradable: 0
+  isPipeable: 0

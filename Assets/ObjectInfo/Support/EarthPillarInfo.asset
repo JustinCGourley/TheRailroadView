@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3ebcd450a4479469b90f68fc023cc0, type: 3}
+  m_Name: EarthPillarInfo
+  m_EditorClassIdentifier: 
+  obj: {fileID: 7765070955642094130, guid: 8a84edf78960e864391a974de7424fbb, type: 3}
+  upgradeCost: 0
+  objType: 4
+  buildingType: 2
+  isStartBuilding: 0
+  researchCost: 15
+  buildingName: Earth Pillar
+  woodCost: 5000000
+  stoneCost: 5000000
+  manaCost: 0
+  isUpgradable: 0
+  isPipeable: 0

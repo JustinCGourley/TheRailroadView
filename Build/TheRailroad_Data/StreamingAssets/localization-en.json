@@ -1,0 +1,13 @@
+{
+    "Tutorial":[
+        {"title": "Tutorial","description": "Click next to progress the tutorial"},
+        {"title": "Cut Down a Tree","description": "First click on a tree. Then click on the button or press c."},
+        {"title": "Click on a Person","description": "If you click on one of the people you can see their stats"},
+        {"title": "Build Storage","description": "Left-click on the Storage menu. Then click on Small Storage. This will allow you to build a small storage wherever you left-click on the map."},
+        {"title": "Build a House","description": "Once you have enough wood. Go into the housing menu and build a house."},
+        {"title": "Build a Farm","description": "Collect more wood. Then go into the Food menu. Click on farm an build one. Food is essential for your people to survive."},
+        {"title": "Build a Food Storage","description": "If you don't have enough wood continue to get more. If you have enough go into the Storage menu and build a Small Food Storage."},
+        {"title": "Assign a Worker to the Farm","description": "Click on the farm you've built. Then click on the small square in the bottom left corner of the farm pop-up menu. When it is red a worker is assigned to the farm and working the resource."},
+        {"title": "A Good Start","description": "You are on your way to being a proper Railroad Tycoon! Continue to amass resources. Connect the stations located on the map to unlock new areas. Expanding your wealth."}
+    ]
+}

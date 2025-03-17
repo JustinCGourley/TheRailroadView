@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c065635a2d6d4a42ab363b868deaac9, type: 3}
+  m_Name: ProjectileInfo
+  m_EditorClassIdentifier: 
+  damage: 5
+  speed: 5
+  aoeRange: 3
+  doesArc: 0
+  basicMod: 1
+  fireMod: 1
+  waterMod: 1
+  earthMod: 1
+  airMod: 1
+  lavaMod: 1
+  steamMod: 1
+  explosionMod: 1
+  mudMod: 1
+  iceMod: 1
+  electricMod: 1
+  basic: {fileID: 2219088453205452868, guid: b3f42da3d762fbb40b335bf4ee668794, type: 3}
+  fire: {fileID: 2219088453205452868, guid: b74050e3ee2e9484292654988cad06c1, type: 3}
+  water: {fileID: 2219088453205452868, guid: 1082734791d37e3459ec7f8a2bb6ecce, type: 3}
+  earth: {fileID: 2219088453205452868, guid: 558ec7cba8fab9945979557137b11e3f, type: 3}
+  air: {fileID: 2219088453205452868, guid: 5b5de962e4deee54f8a02bfae1d177dd, type: 3}
+  lava: {fileID: 2219088453205452868, guid: d466111a3684e78479edf8089fa696d2, type: 3}
+  steam: {fileID: 2219088453205452868, guid: 97b48ffbf1bf3d14c89b69ae7a77ff57, type: 3}
+  explosion: {fileID: 2219088453205452868, guid: 27880b4724bd37f4e95ea20440ccd847,
+    type: 3}
+  mud: {fileID: 2219088453205452868, guid: 4e4d08605a1d64a499c1af89b8989ca0, type: 3}
+  ice: {fileID: 2219088453205452868, guid: 12fe454bfc446984ab8160faf9543363, type: 3}
+  electric: {fileID: 2219088453205452868, guid: bd176113b54c388498c74c59c2d37bd2,
+    type: 3}
